@@ -146,6 +146,24 @@ El servicio `WaterConsumptionService`:
 
 ---
 
+---
+
+##  Exploración con Swagger
+
+La API REST expuesta por AiguaApp puede ser explorada visualmente utilizando **Swagger UI**, lo cual facilita probar endpoints y entender la estructura de los datos.
+
+Una vez ejecutado el backend, accedé a:
+
+[http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/)
+
+Desde allí podés:
+- Ver todos los endpoints disponibles.
+- Ejecutar peticiones GET directamente desde el navegador.
+- Visualizar esquemas de respuesta esperados.
+
+Swagger se habilita automáticamente al iniciar la aplicación, sin necesidad de configuración adicional.
+
+
 ##  Equipo y créditos
 
 ---
