@@ -1,0 +1,13 @@
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/repository/AnomalyRepository.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/controller/AnomalyController.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/repository/WaterConsumptionRepository.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/controller/WaterConsumptionController.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/dto/SummaryDTO.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/model/WaterConsumption.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/repository/JsonAnomalyRepository.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/model/Anomaly.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/service/WaterConsumptionService.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/repository/JsonWaterConsumptionRepository.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/util/JsonDataLoader.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/AiguaAppApplication.java
+/Users/Fer_Programando/Desktop/AiguaApp-backend/src/main/java/com/aigua/aiguaapp/service/AnomalyService.java

@@ -55,7 +55,7 @@ src/main/java/com/aigua/aiguaapp/
 
 ---
 
-## 📊 Endpoints REST
+##  Endpoints REST
 
 | Método | Endpoint | Descripción | Devuelve |
 |--------|-----------|-------------|-----------|
@@ -65,7 +65,7 @@ src/main/java/com/aigua/aiguaapp/
 
 ---
 
-## 💾 Datos simulados (JSON)
+##  Datos simulados (JSON)
 
 Los archivos JSON se encuentran en:
 
@@ -79,14 +79,14 @@ Cada vez que se hace una petición, el backend **lee los JSON directamente** y g
 
 ---
 
-## 🚀 Ejecución local
+##  Ejecución local
 
-### 🔧 Requisitos
+###  Requisitos
 - Java 17+
 - Maven 3.9+
 - IntelliJ IDEA o VSCode con soporte Spring Boot
 
-### ▶️ Ejecutar la aplicación
+### ▶ Ejecutar la aplicación
 
 Desde la terminal del proyecto:
 ```bash
@@ -103,7 +103,7 @@ El servidor se levanta por defecto en:
 http://localhost:8080
 ```
 
-### 🌐 Probar con Postman o navegador
+###  Probar con Postman o navegador
 
 - [http://localhost:8080/api/consumption](http://localhost:8080/api/consumption)  
 - [http://localhost:8080/api/anomalies](http://localhost:8080/api/anomalies)  
@@ -111,7 +111,7 @@ http://localhost:8080
 
 ---
 
-## 🧮 Ejemplo de respuesta `/api/summary`
+##  Ejemplo de respuesta `/api/summary`
 
 ```json
 [
@@ -126,7 +126,7 @@ http://localhost:8080
 
 ---
 
-## 📦 Dependencias principales
+##  Dependencias principales
 
 - Spring Boot Starter Web  
 - Jackson Datatype JSR310  
@@ -135,7 +135,7 @@ http://localhost:8080
 
 ---
 
-## 🧠 Lógica de negocio
+##  Lógica de negocio
 
 El servicio `WaterConsumptionService`:
 1. Lee los consumos desde `consumption.json`.
@@ -146,11 +146,11 @@ El servicio `WaterConsumptionService`:
 
 ---
 
-## 👥 Equipo y créditos
+##  Equipo y créditos
 
 ---
 
-## 🧾 Licencia
+##  Licencia
 Este proyecto se distribuye bajo licencia **MIT**.  
 Podés usarlo y modificarlo libremente citando la fuente.
 
