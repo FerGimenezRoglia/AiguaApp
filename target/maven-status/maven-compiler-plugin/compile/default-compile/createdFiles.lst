@@ -1,0 +1,3 @@
+com/aigua/aiguaapp/exception/CustomException.class
+com/aigua/aiguaapp/exception/GlobalExceptionHandler.class
+com/aigua/aiguaapp/exception/ErrorResponse.class
