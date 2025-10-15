@@ -25,7 +25,7 @@ Forma parte del **Reto 3 – Gestión sostenible de los recursos hídricos**, al
 
 ---
 
-## 🧱 Estructura del backend
+##  Estructura del backend
 
 ```
 src/main/java/com/aigua/aiguaapp/
